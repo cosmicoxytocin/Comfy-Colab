@@ -15,4 +15,6 @@
 ---
 ### Acknowledgements
 * [TheLastBen](https://github.com/TheLastBen) for  [Fast Stable Diffusion](https://github.com/TheLastBen/fast-stable-diffusion) which I used as a template.
-* 
+* [comfyanonymous](https://github.com/comfyanonymous) for [ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+* [camenduru](https://github.com/camenduru) for the cloudflare host and reference notebooks
+* StabilityAi for Stable Diffusion
