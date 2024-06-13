@@ -18,4 +18,4 @@ Usage Guide
 5. Run `Requirements` Cell. This will install the requirements to run ComfyUI in Google Colab.
 6. Run `Launch ComfyUI` Cell. This cell will provide you with a cloudflare link for the interface. Before clicking the link, wait until you see the following cell output:
 
-![Comfy-Wait](assets/comfyColab_waitFor.png)
+![Comfy-Wait](https://raw.githubusercontent.com/cosmicoxytocin/Comfy-Colab/main/assets/comfyColab_waitFor.png)
