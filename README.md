@@ -1,4 +1,4 @@
-ComfyUI-Colab
+Comfy-Colab
 ===
 With Google Drive Support.
 -----------
