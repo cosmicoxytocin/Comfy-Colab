@@ -7,7 +7,8 @@ With Google Drive Support.
 <a href="https://github.com/cosmicoxytocin/ComfyUI-Colab/blob/main/assets/ComfyUI_temp_dmcbl_00001_.png"><i>output image</i></a>
 ---
 ## **WIP**
-
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cosmicoxytocin/ComfyUI-Colab/blob/main/ComfyColab_DEV.ipynb)<br>
+**See** [Model Installation](https://github.com/cosmicoxytocin/ComfyUI-Colab/blob/main/docs/install_models_sd3.md)
 
 
 ### To-Do
