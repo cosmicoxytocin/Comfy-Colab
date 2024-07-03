@@ -14,7 +14,7 @@ Usage Guide
     * Running this cell for the first time will install a new folder in your Google Drive.
         * The folder path is `MyDrive/Comfy/ComfyUI`
     * Running this cell after ComfyUI is installed will attempt to update ComfyUI to the latest master branch.
-4. **Do Not** Run the `Download Model` cell. As of now, it is not finished. See [Install Guide](docs/install_models_sd3.md)
+4. **Do Not** Run the `Download Model` cell. As of now, it is not finished. See [Install Guide](https://github.com/cosmicoxytocin/Comfy-Colab/blob/main/docs/install_models_sd3.md)
 5. Run `Requirements` Cell. This will install the requirements to run ComfyUI in Google Colab.
 6. Run `Launch ComfyUI` Cell. This cell will provide you with a cloudflare link for the interface. Before clicking the link, wait until you see the following cell output:
 
