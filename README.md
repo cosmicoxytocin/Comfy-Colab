@@ -1,3 +1,5 @@
+
+
 Comfy-Colab
 ===
 With Google Drive Support.
@@ -10,6 +12,8 @@ With Google Drive Support.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/cosmicoxytocin/ComfyUI-Colab/blob/main/ComfyColab_DEV.ipynb)<br>
 **See** [Model Installation](docs/install_models_sd3.md)<br>
 **See** [Usage Guide](docs/usage_guide.md)
+
+**Note:** Do not run the `Download Model` cell yet; it is unfinished.
 
 
 ### To-Do
